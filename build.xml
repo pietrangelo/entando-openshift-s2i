@@ -1,0 +1,7 @@
+<project name="openshift-s2i" default="WAR-build" basedir=".">
+	<description>openshift-s2i - Build file</description>
+	
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+	
+</project>
