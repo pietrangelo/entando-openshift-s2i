@@ -100,7 +100,7 @@
                 <env.db.environment>production</env.db.environment>
             </properties>
             <build>
-                <finalName>PortalExample</finalName>
+                <finalName>entando-openshift-s2i</finalName>
                 <plugins>
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
